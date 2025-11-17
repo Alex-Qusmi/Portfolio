@@ -6,4 +6,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/assets/img/preview.png)
+![preview img]/assets/img/preview.png
